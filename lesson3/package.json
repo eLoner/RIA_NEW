@@ -1,0 +1,31 @@
+{
+  "name": "lesson3",
+  "version": "1.0.0",
+  "description": "lesson3",
+  "main": "index.js",
+  "dependencies": {
+    "ect": "^0.5.9",
+    "post-data": "^0.0.0",
+    "query-string": "^3.0.1",
+    "querystring": "*",
+    "validator": "*"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ria-com/school-test-project-day3.git"
+  },
+  "keywords": [
+    "node",
+    "javascript"
+  ],
+  "author": "eloner",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ria-com/school-test-project-day3/issues"
+  },
+  "homepage": "https://github.com/ria-com/school-test-project-day3"
+}

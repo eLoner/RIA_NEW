@@ -16,3 +16,4 @@ addresses.map(function (item) {
     result.push(arrayElement);
 });
 console.log(result);
+module.exports = result;

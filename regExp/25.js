@@ -10,7 +10,7 @@ addresses.map(function (item) {
     var inspection = addressCheck.exec(item);
     if (inspection) {
         arrayElement.street = inspection[1];
-        arrayElement.home = inspection[2];
+        arrayElement.house = inspection[2];
         arrayElement.flat = inspection[3];
     }
     result.push(arrayElement);
